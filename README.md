@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate in anything I could 
 - 📫 How to reach me at my mail
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know graphic design
 
 <!---
