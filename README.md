@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate in anything I could 
 - 📫 How to reach me at my mail
-- ⚡ Fun fact: I know graphic design
+- ⚡ Fun fact: I know graphic designer 
 
 <!---
 rustybeast19/rustybeast19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
